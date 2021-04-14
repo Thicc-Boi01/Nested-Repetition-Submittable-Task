@@ -1,0 +1,16 @@
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.exe
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.deps.json
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.json
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.runtimeconfig.dev.json
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.dll
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\ref\NestedRepetition.dll
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\bin\Debug\net5.0\NestedRepetition.pdb
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csprojAssemblyReference.cache
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfoInputs.cache
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.AssemblyInfo.cs
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.csproj.CoreCompileInputs.cache
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.dll
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\ref\NestedRepetition.dll
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.pdb
+C:\Swinburne 2021\Programing\homestuff\RepititionTasks\NestedRepetition\obj\Debug\net5.0\NestedRepetition.genruntimeconfig.cache
